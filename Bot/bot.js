@@ -9,8 +9,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
 // @require	     https://cdn.jsdelivr.net/npm/toastify-js
 // @resource     TOASTIFY_CSS https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css
-// @updateURL    5
-// @downloadURL  5
+// @updateURL    https://github.com/Kinuseka/NyanCatrPlace/raw/main/Bot/bot.js
+// @downloadURL  https://github.com/Kinuseka/NyanCatrPlace/raw/main/Bot/bot.js
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
 // ==/UserScript==
